@@ -89,7 +89,7 @@
           "_JSplaceholders": [],
           "_customTemplate": true,
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
             "showButtons": true,
             "showArrow": true,
