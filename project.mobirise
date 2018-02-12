@@ -178,7 +178,12 @@
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-header__text {\n\tcolor: #ffffff;\n}\n.mbr-header__subtext {\n\tcolor: #ffffff;\n}\n.mbr-article {\n\tcolor: #ffffff;\n}\n",
           "_customTemplate": true,
-          "_anchor": "msg-box4-109"
+          "_anchor": "msg-box4-109",
+          "_styles": {
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -238,7 +243,12 @@
           "_JSplaceholders": [],
           "_customCSS": "@import url(undefined);\n.mbr-header__text {\n\tcolor: #ffffff;\n}\n.mbr-header__subtext {\n\tcolor: #ffffff;\n}\n.mbr-article {\n\tcolor: #ffffff;\n}\n",
           "_customTemplate": true,
-          "_anchor": "msg-box4-93"
+          "_anchor": "msg-box4-93",
+          "_styles": {
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -298,7 +308,12 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
-          "_anchor": "msg-box4-77"
+          "_anchor": "msg-box4-77",
+          "_styles": {
+            ".mbr-article P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -351,7 +366,7 @@
           "headerAlign": "left",
           "title": "MENGENAI AKHLAK",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Akhlak secara terminologi berarti tingkah laku seseorang yang didorong oleh suatu keinginan secara sadar untuk melakukan suatu perbuatan yang baik.</p><p>\rAkhlak merupakan bentuk jamak dari kata khuluk, berasal dari bahasa Arab yang berarti perangai, tingkah laku, atau tabiat.[2] cara membedakan akhlak, moral dan etika yaitu Dalam etika, untuk menentukan nilai perbuatan manusia baik atau buruk menggunakan tolok ukur akal pikiran atau rasio, sedangkan dalam moral dan susila menggunakan tolok ukur norma-norma yang tumbuh dan berkembang dan berlangsung dalam masyarakat (adat istiadat), dan dalam akhlaq menggunakan ukuran Al Qur’an dan Al Hadis untuk menentukan baik-buruknya.</p>",
+          "text": "<p>Akhlak secara terminologi berarti tingkah laku seseorang yang didorong oleh suatu keinginan secara sadar untuk melakukan suatu perbuatan yang baik.</p><p>\nAkhlak merupakan bentuk jamak dari kata khuluk, berasal dari bahasa Arab yang berarti perangai, tingkah laku, atau tabiat.[2] cara membedakan akhlak, moral dan etika yaitu Dalam etika, untuk menentukan nilai perbuatan manusia baik atau buruk menggunakan tolok ukur akal pikiran atau rasio, sedangkan dalam moral dan susila menggunakan tolok ukur norma-norma yang tumbuh dan berkembang dan berlangsung dalam masyarakat (adat istiadat), dan dalam akhlaq menggunakan ukuran Al Qur’an dan Al Hadis untuk menentukan baik-buruknya.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://id.wikipedia.org/wiki/Akhlak\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
           "_customCSS": "@import url(undefined);\n.mbr-header__text {\n\tcolor: #ffffff;\n}\n.mbr-header__subtext {\n\tcolor: #ffffff;\n}\n.mbr-article {\n\tcolor: #ffffff;\n}\n",
           "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-parallax-background\" style=\"background-image: url(file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-07-11_211003/assets/images/maxresdefault-1280x1024-3.jpg);\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(11, 10, 176);\"></div>\n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 93px; padding-bottom: 70px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                \n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-12 mbr-section__left\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"722\">ANY FURTHER INFORMATION&nbsp;</h3>\n                            \n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"723\"><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website&nbsp;</p></div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-buttons mbr-buttons--auto-align btn-inverse\"><a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"724\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#bottom\" style=\"font-size: 11px;\" code-editable-id=\"725\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"726\">LEARN MORE</a></div>\n                    </div>\n                </div>\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-left mbr-section__right col-sm-2\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-07-11_211003/assets/images/13-558x1116-46.png\" class=\"mbr-figure__img\"></figure>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
@@ -361,7 +376,8 @@
           "_anchor": "msg-box4-61",
           "_styles": {
             ".mbr-article P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
             }
           }
         },
