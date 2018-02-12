@@ -32,7 +32,7 @@
           "_inherit": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": false,
