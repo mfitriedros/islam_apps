@@ -1,0 +1,431 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.11.1",
+    "versionPublish": "4.6.3",
+    "name": "Template 10",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "favicon": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "uniqCompNum": 12
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Aplikasi Islam",
+        "meta_descr": "",
+        "header_custom": "<script src=\"//fast.eager.io/8jd3hlJX8l.js\"></script>",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#header2-0\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#bottom\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#contacts1-1\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-islam-128x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">APLIKASI ISLAM</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_customCSS": "@import url(undefined);\n@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);\nH1 {\n\tfont-size: 80px;\n}\nP {\n\tfont-family: 'Oswald', sans-serif;\n\tfont-size: 32px;\n}\nh1 {\n  font-size: 4.2vw;\n}\n\n",
+          "_customHTML": "<section class=\"mbr-box mbr-section mbr-section--relative mbr-section--fixed-size mbr-section--full-height mbr-section--bg-adapted mbr-parallax-background\" style=\"background-image: url(file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-07-11_211003/assets/images/17o9poebga141png-1600x900-31.png);\">\n    <div class=\"mbr-box__magnet mbr-box__magnet--sm-padding mbr-box__magnet--center-left\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(2, 30, 24);\"></div>\n        <div class=\"mbr-box__container mbr-section__container container\">\n            <div class=\"mbr-box mbr-box--stretched\"><div class=\"mbr-box__magnet mbr-box__magnet--center-left\">\n                <div class=\"row\">\n                    <div class=\"mbr-hero animated fadeInUp\">\n                        <h1 class=\"mbr-hero__text mbr-editable-content\" code-editable-id=\"12\"><font color=\"red\">WINDOWS&nbsp;</font><span style=\"color: inherit; font-family: inherit;\">WEBDESIGN</span><br><p></p></h1>\n                        <p class=\"mbr-hero__subtext mbr-editable-content\" style=\"text-align: left; font-size: 36px;\" code-editable-id=\"13\">web design at its best</p><br>\n                    </div>\n                    <div class=\"mbr-buttons btn-inverse mbr-buttons--left\"><a class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning mbr-editable-button\" href=\"template10.html#msg-box4-109\" code-editable-id=\"14\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success mbr-editable-button\" href=\"template10.html#msg-box4-93\" code-editable-id=\"15\">ABOUT US</a> <a class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger mbr-editable-button\" href=\"template10.html#msg-box4-77\" code-editable-id=\"16\">CONTACT&nbsp;</a> <a class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay mbr-editable-button btn-default\" href=\"http://www.stcdesigns.com/mobirise/template10/template10.rar\" style=\"font-size: 14px;\" code-editable-id=\"17\">DOWNLOAD TEMPLATE?</a></div>\n                </div></div>\n            </div></div>\n        </div>\n        <div class=\"mbr-arrow mbr-arrow--floating text-center\">\n            <div class=\"mbr-section__container container\">\n                <a class=\"mbr-arrow__link\" href=\"#next\"><i class=\"glyphicon glyphicon-menu-down\"></i></a>\n            </div>\n        </div>\n    \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#27aae0",
+            "overlayOpacity": "0.5"
+          },
+          "title": "Aplikasi Islam",
+          "text": "web design at its best",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"template10.html#msg-box4-109\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-italic mbr-iconfont mbr-iconfont-btn\"></span>MENGENAI IMAN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"template10.html#msg-box4-93\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-protect mbr-iconfont mbr-iconfont-btn\"></span>MENGENAI ISLAM</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"template10.html#msg-box4-77\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-play mbr-iconfont mbr-iconfont-btn\"></span>MENGENAI IHSAN</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"template10.html#msg-box4-61\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-windows mbr-iconfont mbr-iconfont-btn\"></span>MENGENAI AKHLAK</a>    <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"template10.html#contacts1-1\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-map-pin mbr-iconfont mbr-iconfont-btn\"></span>HUBUNGI KAMI</a> ",
+          "_anchor": "header2-0",
+          "_styles": {
+            "H1": {
+              "font-size": "36px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_name": "msg-box4",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fain-in-islam-11-620x324.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "MENGENAI IMAN&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Para ulama menetapkan setiap umat Islam mestilah percaya kepada 6 perkara asas dalam Islam yang dikenali ramai sebagai Rukun Iman, perkara ini didasarkan kepada Hadis Jibril[1]:-\n</p><p>\n</p><p>1) Percaya kepada Allah\n</p><p>2) Percaya kepada Malaikat-Malaikat\n</p><p>3) Percaya kepada Kitab-Kitab\n</p><p>4) Percaya kepada Nabi-Nabi dan Rasul-Rasul\n</p><p>5) Percaya kepada Hari Akhirat\n</p><p>6) Percaya kepada Qada' dan Qadar</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://ms.wikipedia.org/wiki/Rukun_Iman\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative\" style=\"background-color: rgb(249, 115, 82);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 10px; padding-bottom: 0px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-4\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-07-11_211003/assets/images/12-528x638-8.png\" class=\"mbr-figure__img\"></figure>\n                </div>\n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-12 mbr-section__right\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"665\">WHAT SHALL WE PUT HERE</h3>\n                            \n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"666\"><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a&nbsp;</p></div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-buttons mbr-buttons--auto-align btn-inverse\"><a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"667\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#bottom\" style=\"font-size: 11px;\" code-editable-id=\"668\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"669\">LEARN MORE</a></div>\n                    </div>\n                </div>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\n.mbr-header__text {\n\tcolor: #ffffff;\n}\n.mbr-header__subtext {\n\tcolor: #ffffff;\n}\n.mbr-article {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box4-109"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_name": "msg-box4",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/islam-800x450.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "MENGENAI ISLAM&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Tuhan menyuruh manusia mentaati suruhannya yang dikenali sebagai Rukun Islam yang terdiri daripada lima perkara iaitu:-\n</p><p>\n</p><p>1) Mengucapkan dua kalimah syahadah dan menunaikan Haknya.\n</p><p>2) Menunaikan solat fardu lima waktu\n</p><p>3) Berpuasa pada bulan Ramadan\n</p><p>4) Membayar zakat - Zakat fitrah, Zakat harta\n</p><p>5) Mengerjakan Haji bagi mereka yang mampu</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://ms.wikipedia.org/wiki/Rukun_Islam\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative\" style=\"background-color: rgb(250, 175, 64);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 90px; padding-bottom: 90px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                \n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-12 mbr-section__left\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"624\">CAN ADD TEXT HERE TOO</h3>\n                            \n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"625\"><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a dhdh</p></div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-buttons mbr-buttons--auto-align btn-inverse\"><a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"626\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#bottom\" style=\"font-size: 11px;\" code-editable-id=\"627\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"628\">LEARN MORE</a></div>\n                    </div>\n                </div>\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-left mbr-section__right col-sm-3\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-07-11_211003/assets/images/watch-585x651-87.png\" class=\"mbr-figure__img\"></figure>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(undefined);\n.mbr-header__text {\n\tcolor: #ffffff;\n}\n.mbr-header__subtext {\n\tcolor: #ffffff;\n}\n.mbr-article {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "msg-box4-93"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_name": "msg-box4",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7ac673",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ihsan-768x587.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/0accXMVc9bs",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "MENGENAI IHSAN&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Ihsan itu ialah bahawa \"kamu menyembah Allah seolah-olah kamu melihat-Nya, tetapi jika kamu tidak melihat-Nya, maka sesungguhnya Dia melihat kamu.\" (Pengertian berdasarkan hadith riwayat Muslim daripada Umar bin Khattab) Yakni, mengabdikan diri kepada Allah hendaklah dengan perasaan seolah-olah anda melihat-Nya dan jika anda tiada perasaan melihat kepada-Nya, maka hendaklah anda merasa bahawa Allah melihatmu. Maksudnya: ikhlas dalam beribadah atau ikhlas melaksanakan Islam dan Iman.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://id.wikipedia.org/wiki/Akhlak\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_customCSS": "@import url(undefined);\n.mbr-header__text {\n\tcolor: #ffffff;\n}\n.mbr-header__subtext {\n\tcolor: #ffffff;\n}\n.mbr-article {\n\tcolor: #ffffff;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative\" style=\"background-color: rgb(122, 198, 115);\">\n    \n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 30px; padding-bottom: 0px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-right mbr-section__left col-sm-4\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-07-11_211003/assets/images/10-470x456-6.png\" class=\"mbr-figure__img\"></figure>\n                </div>\n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-12 mbr-section__right\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"644\">FINISH HERE OR ADD A BLOCK&nbsp;</h3>\n                            \n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"645\"><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a</p></div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-buttons mbr-buttons--auto-align btn-inverse\"><a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"646\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#bottom\" style=\"font-size: 11px;\" code-editable-id=\"647\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"648\">LEARN MORE</a></div>\n                    </div>\n                </div>\n                \n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "msg-box4-77"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_name": "msg-box4",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-1280x1024-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#27aae0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2969b0",
+            "overlayOpacity": "0.7"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/akhlak-600x380.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "classPrefix": "mdi-",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "headerAlign": "left",
+          "title": "MENGENAI AKHLAK",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Akhlak secara terminologi berarti tingkah laku seseorang yang didorong oleh suatu keinginan secara sadar untuk melakukan suatu perbuatan yang baik.</p><p>\rAkhlak merupakan bentuk jamak dari kata khuluk, berasal dari bahasa Arab yang berarti perangai, tingkah laku, atau tabiat.[2] cara membedakan akhlak, moral dan etika yaitu Dalam etika, untuk menentukan nilai perbuatan manusia baik atau buruk menggunakan tolok ukur akal pikiran atau rasio, sedangkan dalam moral dan susila menggunakan tolok ukur norma-norma yang tumbuh dan berkembang dan berlangsung dalam masyarakat (adat istiadat), dan dalam akhlaq menggunakan ukuran Al Qur’an dan Al Hadis untuk menentukan baik-buruknya.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html#header2-0\" data-toolbar=\"-mbrBtnMove\">UTAMA</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://id.wikipedia.org/wiki/Akhlak\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> ",
+          "_customCSS": "@import url(undefined);\n.mbr-header__text {\n\tcolor: #ffffff;\n}\n.mbr-header__subtext {\n\tcolor: #ffffff;\n}\n.mbr-article {\n\tcolor: #ffffff;\n}\n",
+          "_customHTML": "<section class=\"mbr-section mbr-section--relative mbr-parallax-background\" style=\"background-image: url(file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-07-11_211003/assets/images/maxresdefault-1280x1024-3.jpg);\">\n    <div class=\"mbr-overlay\" style=\"opacity: 0.8; background-color: rgb(11, 10, 176);\"></div>\n    <div class=\"mbr-section__container mbr-section__container--isolated container\" style=\"padding-top: 93px; padding-bottom: 70px;\">\n        <div class=\"row\">\n            <div class=\"mbr-box mbr-box--fixed mbr-box--adapted\">\n                \n                <div class=\"mbr-box__magnet mbr-class-mbr-box__magnet--center-left col-sm-12 mbr-section__left\">\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-header mbr-header--auto-align mbr-header--wysiwyg\">\n                            <h3 class=\"mbr-header__text mbr-editable-content\" style=\"font-size: 20px;\" code-editable-id=\"722\">ANY FURTHER INFORMATION&nbsp;</h3>\n                            \n                        </div>\n                    </div>\n                    <div class=\"mbr-section__container mbr-section__container--middle\">\n                        <div class=\"mbr-article mbr-article--auto-align mbr-article--wysiwyg mbr-editable-full\" code-editable-id=\"723\"><p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website&nbsp;</p></div>\n                    </div>\n                    <div class=\"mbr-section__container\">\n                        <div class=\"mbr-buttons mbr-buttons--auto-align btn-inverse\"><a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"724\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#bottom\" style=\"font-size: 11px;\" code-editable-id=\"725\">LEARN MORE</a> <a class=\"mbr-buttons__btn btn btn-lg btn-default mbr-editable-button\" href=\"#top\" style=\"font-size: 11px;\" code-editable-id=\"726\">LEARN MORE</a></div>\n                    </div>\n                </div>\n                <div class=\"mbr-box__magnet mbr-box__magnet--top-left mbr-section__right col-sm-2\">\n                    <figure class=\"mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width\"><img src=\"file:///C:/Users/Livingroom/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-07-11_211003/assets/images/13-558x1116-46.png\" class=\"mbr-figure__img\"></figure>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
+          "_anchor": "msg-box4-61",
+          "_styles": {
+            ".mbr-article P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#b8312f",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><span class=\"mdi-social-public mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>2018 HAMBA ALLAH</p>",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" style=\"background-color: rgb(184, 49, 47);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 24.6px; padding-bottom: 12.3px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"7\"></p><p><span class=\"mdi-social-public mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>2016 STC DESIGNS</p><p></p>\n            </div>\n        </div>\n       \n\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "P {\n\tcolor: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "footer1-659"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-islam-265x265.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"template10.html#header2-0\">Utama</a></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1"
+        }
+      ]
+    }
+  }
+}
